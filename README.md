@@ -26,9 +26,9 @@
 <p align="center">
   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="Python" height="40" style="margin: 0 15px;">
   <img src="https://cdn-icons-png.flaticon.com/512/29/29165.png" alt="SQL" height="40" style="margin: 0 15px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_%282019–present%29.svg" alt="Excel" height="40" style="margin: 0 15px;">
+  <img src="https://img.icons8.com/color/96/000000/microsoft-excel-2019.png" alt="Excel" height="40" style="margin: 0 15px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" height="40" style="margin: 0 15px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo_black.svg" alt="Power BI" height="40" style="margin: 0 15px;">
+  <img src="https://img.icons8.com/color/96/000000/microsoft-power-bi.png" alt="Power BI" height="40" style="margin: 0 15px;">
 </p>
 
 ---
@@ -44,6 +44,5 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" height="40" style="margin: 0 15px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" height="40" style="margin: 0 15px;">
   <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" height="40" style="margin: 0 15px;">
-  <img src="https://customtkinter.tomschimansky.com/img/logo_dark.png" 
-       alt="CustomTkinter" height="40" style="margin: 0 15px;">
+  <img src="https://customtkinter.tomschimansky.com/img/logo_dark.png" alt="CustomTkinter" height="40" style="margin: 0 15px;">
 </p>

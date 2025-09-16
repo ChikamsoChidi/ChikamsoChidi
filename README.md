@@ -19,21 +19,30 @@
 
 ---
 
-## 🚀 My Tech Stack  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)  
-![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)  
+<p align="center">
+  <strong>🚀 My Tech Stack 🚀</strong>
+</p>
+
+<p align="center">
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="Python" height="40" style="margin: 0 15px;">
+  <img src="https://cdn-icons-png.flaticon.com/512/29/29165.png" alt="SQL" height="40" style="margin: 0 15px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Microsoft_Office_Excel_%282019–present%29.svg/1200px-Microsoft_Office_Excel_%282019–present%29.svg.png" alt="Excel" height="40" style="margin: 0 15px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" height="40" style="margin: 0 15px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo_black.svg" alt="Power BI" height="40" style="margin: 0 15px;">
+</p>
 
 ---
 
-## 🛠 Tools and Platforms  
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white)  
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white) 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)  
-![CustomTkinter](https://img.shields.io/badge/CustomTkinter-3776AB?logo=python&logoColor=white)  
- 
+<p align="center">
+  <strong>🛠️ Tools and Platforms 🛠️</strong>
+</p>
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" height="40" style="margin: 0 15px;">
+  <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" height="40" style="margin: 0 15px;">
+  <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" alt="Streamlit" height="40" style="margin: 0 15px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" height="40" style="margin: 0 15px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" height="40" style="margin: 0 15px;">
+  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" height="40" style="margin: 0 15px;">
+  <img src="https://customtkinter.tomschimansky.com/img/logo_dark.png" alt="CustomTkinter" height="40" style="margin: 0 15px;">
+</p>

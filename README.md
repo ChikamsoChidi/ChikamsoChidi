@@ -1,6 +1,6 @@
 <!-- Banner / Illustration -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-username/main/assets/coding-illustration.png" 
+  <img src="https://raw.githubusercontent.com/ChikamsoChidi/ChikamsoChidi/main/assets/coding-illustration.jpg" 
        alt="coding illustration" width="600"/>
 </p>
 

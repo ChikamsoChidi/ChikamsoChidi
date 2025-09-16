@@ -28,7 +28,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/29/29165.png" alt="SQL" height="40" style="margin: 0 15px;">
   <img src="https://img.icons8.com/color/96/000000/microsoft-excel-2019.png" alt="Excel" height="40" style="margin: 0 15px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" height="40" style="margin: 0 15px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo_black.svg" alt="Power BI" height="40" style="margin: 0 15px;">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=microsoft-power-bi&logoColor=black" alt="Power BI" height="28" style="margin: 0 12px;">
 </p>
 
 ---

@@ -26,7 +26,7 @@
 <p align="center">
   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="Python" height="40" style="margin: 0 15px;">
   <img src="https://cdn-icons-png.flaticon.com/512/29/29165.png" alt="SQL" height="40" style="margin: 0 15px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Microsoft_Office_Excel_%282019–present%29.svg/1200px-Microsoft_Office_Excel_%282019–present%29.svg.png" alt="Excel" height="40" style="margin: 0 15px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_%282019–present%29.svg" alt="Excel" height="40" style="margin: 0 15px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" height="40" style="margin: 0 15px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo_black.svg" alt="Power BI" height="40" style="margin: 0 15px;">
 </p>
@@ -39,10 +39,11 @@
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" height="40" style="margin: 0 15px;">
-  <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" height="40" style="margin: 0 15px;">
+  <img src="https://matplotlib.org/_static/logo_light.svg" alt="Matplotlib" height="40" style="margin: 0 15px;">
   <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" alt="Streamlit" height="40" style="margin: 0 15px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" height="40" style="margin: 0 15px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" height="40" style="margin: 0 15px;">
   <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" height="40" style="margin: 0 15px;">
-  <img src="https://customtkinter.tomschimansky.com/img/logo_dark.png" alt="CustomTkinter" height="40" style="margin: 0 15px;">
+  <img src="https://customtkinter.tomschimansky.com/img/logo_dark.png" 
+       alt="CustomTkinter" height="40" style="margin: 0 15px;">
 </p>

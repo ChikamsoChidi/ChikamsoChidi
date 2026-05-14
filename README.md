@@ -20,7 +20,7 @@
 ---
 
 <p align="center">
-  <strong>🚀 My Tech Stack 🚀</strong>
+  <strong>My Tech Stack</strong>
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@
 ---
 
 <p align="center">
-  <strong>🛠️ Tools and Platforms 🛠️</strong>
+  <strong>Tools and Platforms</strong>
 </p>
 
 <p align="center">
